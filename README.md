@@ -1,1 +1,2 @@
-# SelfTutorial1
+# Self Tutorial
+Learning git and github
